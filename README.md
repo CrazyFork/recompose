@@ -8,6 +8,9 @@ this branch is my reading branch. notes in todo.txt or notes folder
   flowRight func to compose a hight order func.
 * well, have to admit the high order function coding style made me quite dazzle
 * follow this codes `/recompose/mapProps.js` to see how to create a component factory.
+* ava & enzyme & sinon in unit test
+  * ava config in package.json
+
  
 
 
